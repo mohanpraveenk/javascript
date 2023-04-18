@@ -1,0 +1,32 @@
+.timer {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.time-left {
+	font-size: 100px;
+	margin-bottom: 20px;
+}
+
+button {
+	padding: 10px 20px;
+	margin: 0 10px;
+}
+
+button.start-btn {
+	background-color: #4CAF50;
+	color: white;
+}
+
+button.pause-btn {
+	background-color: #f44336;
+	color: white;
+}
+
+button.reset-btn {
+	background-color: #008CBA;
+	color: white;
+}
+body{
+  background-color: rgba(0, 255, 255, 0.805);
+}
